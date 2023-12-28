@@ -1,6 +1,6 @@
 git clone https://github.com/FIRandZAH/RA-ZAHRA
 
-cd zahra
+cd RA-ZAHRA
 
 git pull
 
